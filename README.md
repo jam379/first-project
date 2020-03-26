@@ -37,5 +37,16 @@
         
         <p id="sp">This epidemic continues with more cases and unfortunatly deaths around the globe. Now, shops/stores are closing rapidly making it hard to get some items that you could usually get. Ontop of this, people are losing their jobs due to this virus and not getting any income to support themselves.
         
+        <h2>Other Cool Websites!</h2>
+        
+        <ul>
+           <li> <a href="https://adamc0.github.io/">Adam</a> </li>
+           <li> <a href="https://mwalsh16.github.io/">Meaghan</a> </li>
+           <li> <a href="https://andrewt33.github.io">Andrew</a> </li>
+           <li> <a href="https://ytarique.github.io">Yazaan</a> </li>
+           <li> <a href="https://rboy2005.github.io/Richie-Ruby-First/">Richie</a> </li>
+           <li> <a href="http://jam379.github.io">John</a> </li>
+           <li> <a href="https://ltbabyyy.github.io">Lyriq</a> </li>
+        </ul>
         
 
