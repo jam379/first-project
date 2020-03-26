@@ -1,4 +1,3 @@
-#<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -39,5 +38,4 @@
         <p id="sp">This epidemic continues with more cases and unfortunatly deaths around the globe. Now, shops/stores are closing rapidly making it hard to get some items that you could usually get. Ontop of this, people are losing their jobs due to this virus and not getting any income to support themselves.
         
         
-    </body>
-</html>
+
